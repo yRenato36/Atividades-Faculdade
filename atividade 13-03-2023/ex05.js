@@ -1,4 +1,22 @@
-/* Crie uma classe chamada Estudante, essa classe deve conter
+/* 
+⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠟⣵⣷⣶⠭⣝⣛⣛⠿⠿⠿⠿⠿⠿⣛⣛⠫⠉⠄⠄⠈⠻⣿⣿⣿⣿
+⣿⣿⠟⣡⣿⣟⢱⣿⣞⣧⣝⢿⣿⣿⣿⣿⣿⠟⠋⣡⡴⡿⠃⠄⠄⠄⠈⠻⣿⣿
+⣿⣿⣷⡜⣿⠸⣮⡿⠿⡘⢟⢸⣿⡿⠟⠋⠄⠄⣿⡏⢀⣴⡆⣴⠆⠄⢠⣾⣿⣿
+⣿⣿⣿⣿⢸⣷⣕⡶⠼⢔⡽⠟⢉⣤⡾⠃⠄⠄⣿⣧⣾⠟⢁⣤⡆⠄⣾⣿⣿⣿
+⣿⣿⣿⠇⣿⣿⣿⡿⠛⠉⢠⣾⣿⣤⡆⢀⣤⠄⠛⠉⠄⠄⣿⣿⡇⠄⠸⣿⣿⣿
+⣿⣿⢟⣼⠿⠛⣁⡄⠄⠄⠄⣿⣿⡉⠁⠘⢡⣴⣾⠄⠄⠄⣿⣿⡇⠄⠄⠹⣿⣿
+⣿⠋⠊⣡⡶⠛⣛⡁⠄⡀⢠⠿⠋⡁⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢰⡝⣿
+⡏⠄⠄⣿⠗⠛⣿⡇⠘⠃⠄⣶⣿⡇⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢸⣷⢸
+⡁⠄⠄⣶⡷⠞⢉⣤⠄⠄⠄⣿⣿⡇⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢸⣿⡏
+⡇⠄⠄⠉⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢸⣿⢸
+⣿⣔⠆⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⠸⢣⣿
+⣿⣿⣦⣄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⠄⢸⣿⣿⠄⠄⠄⣿⣿⡇⠄⣀⣴⣿⣿
+⣿⣿⣿⣿⣿⣶⣶⣯⣤⣤⣤⣛⡻⠇⠄⠄⠸⢟⣛⣤⣤⣤⣽⣶⣶⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+
+Crie uma classe chamada Estudante, essa classe deve conter
 os atributos: nome, e-mail, RA, curso e uma lista com o nome 
 das disciplinas que o estudante está matriculado.
 Para testar, crie dois estudantes de exemplo e imprima os
