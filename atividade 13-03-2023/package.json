@@ -1,0 +1,11 @@
+{
+  "name": "atividade-13-03-2023",
+  "version": "1.0.0",
+  "main": "ex05.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
